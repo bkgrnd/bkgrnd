@@ -7,5 +7,5 @@ my most notable projects are:
 
 - 🔭 I’m currently working on the reverse project
 - 📫 How to reach me:
-**@bkgrnd on discord**
+**@bkgrnd on discord**                                                                                                                         
 **[bkgrnd on steam](https://steamcommunity.com/id/bkgrnd/)**
