@@ -1,6 +1,6 @@
 ### WHEEEEEEEEEEEEEEEELO PEOPLE👋
 
-Im the creator of the reverse project, which has been my main thing for like............. 3-ish years.      (time flies, doesnt it?)                                                                                                                                       
+Im the creator of the reverse project, which has been my main thing for like............. 3 years.      (time flies, doesnt it?)                                                                                                                                       
 
 ### 🧠 What do i know? 
 ├── 🐍 Python (havent written a single line of python in like 6 months)  
