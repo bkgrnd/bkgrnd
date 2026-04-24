@@ -13,12 +13,12 @@ Im the creator of the reverse project, which has been my main thing for like....
   
 ### 🪙 Notable projects:  
 ├── 🌾 Cropmate:  
-│ ‎ ‎ ‎‎ ‎ ‎ ‎    ├── Utility mod for Hypixel Skyblock    
+│ ‎ ‎ ‎‎ ‎ ‎ ‎    ├── Utility mod for Hypixel Skyblock (what a funny way to say macro)    
 │  ‎  ‎ ‎ ‎ ‎ ‎  ├── Currently in prototyping.  
 │    ‎ ‎ ‎ ‎ ‎ ‎ └── WILL NOT BE RELEASED SOON, I %^$*%#@ HATE REWARPS.  
 │  
 └── 💻 The Reverse Project:  
- ‎ ‎ ‎  ‎  ‎‎  ‎ ‎ ‎  ├── simulated operating system made in python  
+ ‎ ‎ ‎  ‎  ‎‎  ‎ ‎ ‎  ├── simulated operating system made in python (aka shell)  
    ‎ ‎ ‎ ‎ ‎ ‎‎  ‎ ‎ └── v1 coming (not) soon™  
    
 ### 📫 REACH ME! (buisness or whatever idk)  
