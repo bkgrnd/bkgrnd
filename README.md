@@ -1,9 +1,9 @@
 ### WHEEEEEEEEEEEEEEEELO PEOPLE👋
 
-Im the creator of the reverse project, which has been my main thing for like............. 3 years.      (time flies when all you do is dig in booty all day, doesnt it?)                                                                                                                                       
+Im the creator of the reverse project, which has been my main thing for like............. 3 years.                                                                                                                                  
 
 ### 🧠 What do i know? 
-├── 🐍 Python (havent written a single line of python in like 6 months)  
+├── 🐍 Python (pretty good at it)  (havent written a single line of python in like 6 months)  
 ├── ⚙️ C++ (very bad at it)  
 ├── 🐹 Golang (only the basics)  
 ├── 🦀 Rust (enough for a hello world)  
