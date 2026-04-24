@@ -23,3 +23,4 @@ Im the creator of the reverse project, which has been my main thing for like....
    
 ### 📫 REACH ME! (buisness or whatever idk)  
 └── 💬 @bkgrnd on discord  
+sadly because of the sheer size of the readme you can no longer see my giant link but only the start and end of it :(
