@@ -3,7 +3,7 @@
 Im the creator of the reverse project, which has been my main thing for like............. 3 years.                                                                                                                                  
 
 ### 🧠 What do i know? 
-├── 🐍 Python (pretty good at it)  (havent written a single line of python in like 6 months)  
+├── 🐍 Python (pretty good at it)  (havent written a single "good" line of python in like almost a year)  
 ├── ⚙️ C++ (very bad at it)  
 ├── 🐹 Golang (only the basics)  
 ├── 🦀 Rust (enough for a hello world)  
